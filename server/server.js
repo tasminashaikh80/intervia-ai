@@ -463,8 +463,15 @@ Call submit_evaluation with your complete, evidence-based evaluation.`;
   }
 });
 
-const PORT = process.env.PORT || 3001;
+export default app;
 
-app.listen(PORT, () => {
-  console.log(`Intervia server running on port ${PORT}`);
-});
+if (process.env.NODE_ENV !== "production") {
+ export default app;
+
+if (process.env.NODE_ENV !== "production") {
+  const PORT = process.env.PORT || 3001;
+
+  app.listen(PORT, () => {
+    console.log(`Intervia server running on port ${PORT}`);
+  });
+}
