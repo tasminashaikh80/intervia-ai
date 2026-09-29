@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "express": "^5.2.1",
+    "jspdf": "2.5.2",
+    "pdfjs-dist": "4.4.168",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router-dom": "^7.9.1",
-    "jspdf": "2.5.2",
-    "pdfjs-dist": "4.4.168"
+    "react-router-dom": "^7.9.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
