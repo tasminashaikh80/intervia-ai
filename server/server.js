@@ -466,9 +466,6 @@ Call submit_evaluation with your complete, evidence-based evaluation.`;
 export default app;
 
 if (process.env.NODE_ENV !== "production") {
- export default app;
-
-if (process.env.NODE_ENV !== "production") {
   const PORT = process.env.PORT || 3001;
 
   app.listen(PORT, () => {
