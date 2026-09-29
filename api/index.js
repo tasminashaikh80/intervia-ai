@@ -1,3 +1,6 @@
-import app from "../server/server.js";
+const appPromise = import("../server/server.mjs");
 
-export default app;
+export default async function handler(req, res) {
+  const { default: app } = await appPromise;
+  return app(req, res);
+}
