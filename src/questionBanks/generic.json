@@ -1,0 +1,15 @@
+{
+  "role": "General",
+  "questions": [
+    { "id": "gen-intro-1", "category": "Introduction", "difficulty": "Any", "text": "Please introduce yourself and tell me why you are interested in this role." },
+    { "id": "gen-tech-1", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What skills do you consider most important for success in this role?" },
+    { "id": "gen-tech-2", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "Describe a project or piece of work you are proud of and your contribution." },
+    { "id": "gen-prac-1", "category": "Practical scenarios", "difficulty": "Intermediate", "text": "How would you approach a task you have never done before under a tight deadline?" },
+    { "id": "gen-prob-1", "category": "Problem solving", "difficulty": "Intermediate", "text": "Walk me through how you solve complex problems step by step." },
+    { "id": "gen-beh-1", "category": "Behavioral", "difficulty": "Any", "text": "Tell me about a time you received critical feedback. How did you respond?" },
+    { "id": "gen-beh-2", "category": "Behavioral", "difficulty": "Any", "text": "Describe a situation where you had to work with a difficult teammate." },
+    { "id": "gen-comm-1", "category": "Communication", "difficulty": "Any", "text": "How do you prefer to communicate progress and blockers on a project?" },
+    { "id": "gen-role-1", "category": "Role-specific situations", "difficulty": "Intermediate", "text": "What motivates you in your day-to-day work?" },
+    { "id": "gen-tech-3", "category": "Technical knowledge", "difficulty": "Advanced", "text": "Where do you see the biggest challenges in this field over the next few years?" }
+  ]
+}

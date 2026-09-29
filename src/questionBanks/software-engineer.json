@@ -1,0 +1,17 @@
+{
+  "role": "Software Engineer",
+  "questions": [
+    { "id": "se-intro-1", "category": "Introduction", "difficulty": "Any", "text": "Please introduce yourself and summarize the kinds of systems you have worked on." },
+    { "id": "se-tech-1", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is the difference between a stack and a queue, and when would you use each?" },
+    { "id": "se-tech-2", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "Explain Big-O notation and give an example of improving an algorithm's complexity." },
+    { "id": "se-tech-3", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "How do you approach writing unit tests versus integration tests?" },
+    { "id": "se-tech-4", "category": "Technical knowledge", "difficulty": "Advanced", "text": "Describe a design pattern you have used and why it was appropriate." },
+    { "id": "se-prac-1", "category": "Practical scenarios", "difficulty": "Intermediate", "text": "How would you design a simple URL shortener at a high level?" },
+    { "id": "se-prac-2", "category": "Practical scenarios", "difficulty": "Advanced", "text": "How would you design a notification system that supports email, SMS, and push?" },
+    { "id": "se-prob-1", "category": "Problem solving", "difficulty": "Intermediate", "text": "Walk me through how you debug a difficult intermittent bug." },
+    { "id": "se-beh-1", "category": "Behavioral", "difficulty": "Any", "text": "Tell me about a time you had to learn a new technology quickly under deadline pressure." },
+    { "id": "se-comm-1", "category": "Communication", "difficulty": "Any", "text": "How do you give constructive code review feedback?" },
+    { "id": "se-role-1", "category": "Role-specific situations", "difficulty": "Intermediate", "text": "How do you balance shipping features quickly with maintaining code quality?" },
+    { "id": "se-tech-5", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is version control, and why is branching strategy important on a team?" }
+  ]
+}

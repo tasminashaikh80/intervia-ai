@@ -1,0 +1,17 @@
+{
+  "role": "Junior Web Developer",
+  "questions": [
+    { "id": "jwd-intro-1", "category": "Introduction", "difficulty": "Any", "text": "Please introduce yourself briefly and tell me what drew you to web development." },
+    { "id": "jwd-tech-1", "category": "Technical knowledge", "difficulty": "Beginner", "text": "Can you explain the difference between HTML, CSS, and JavaScript?" },
+    { "id": "jwd-tech-2", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is the DOM, and why does it matter for front-end work?" },
+    { "id": "jwd-tech-3", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "How would you center a div both horizontally and vertically using CSS?" },
+    { "id": "jwd-tech-4", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "What is the difference between let, const, and var in JavaScript?" },
+    { "id": "jwd-prac-1", "category": "Practical scenarios", "difficulty": "Beginner", "text": "A button on a page does nothing when clicked. How would you start debugging that?" },
+    { "id": "jwd-prac-2", "category": "Practical scenarios", "difficulty": "Intermediate", "text": "How would you make a simple webpage look acceptable on both desktop and mobile?" },
+    { "id": "jwd-prob-1", "category": "Problem solving", "difficulty": "Intermediate", "text": "Describe how you would approach building a simple to-do list app in the browser." },
+    { "id": "jwd-beh-1", "category": "Behavioral", "difficulty": "Any", "text": "Tell me about a time you got stuck on a coding problem. How did you resolve it?" },
+    { "id": "jwd-comm-1", "category": "Communication", "difficulty": "Any", "text": "How would you explain a technical concept like an API to a non-technical teammate?" },
+    { "id": "jwd-role-1", "category": "Role-specific situations", "difficulty": "Beginner", "text": "What tools or resources do you use when learning a new web technology?" },
+    { "id": "jwd-tech-5", "category": "Technical knowledge", "difficulty": "Advanced", "text": "Can you explain what a promise is in JavaScript and when you might use async/await?" }
+  ]
+}

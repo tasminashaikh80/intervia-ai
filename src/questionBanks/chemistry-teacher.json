@@ -1,0 +1,17 @@
+{
+  "role": "Chemistry Teacher",
+  "questions": [
+    { "id": "ct-intro-1", "category": "Introduction", "difficulty": "Any", "text": "Please introduce yourself and share your background in chemistry education." },
+    { "id": "ct-tech-1", "category": "Technical knowledge", "difficulty": "Beginner", "text": "How would you explain the difference between an element and a compound to a first-year student?" },
+    { "id": "ct-tech-2", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "How do you teach balancing chemical equations so students truly understand stoichiometry?" },
+    { "id": "ct-tech-3", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "Explain acids and bases in a way suitable for secondary school students." },
+    { "id": "ct-tech-4", "category": "Technical knowledge", "difficulty": "Advanced", "text": "How would you introduce the concept of chemical equilibrium and Le Chatelier's principle?" },
+    { "id": "ct-prac-1", "category": "Practical scenarios", "difficulty": "Intermediate", "text": "A lab experiment fails for half the class. How would you handle that moment as a teacher?" },
+    { "id": "ct-prac-2", "category": "Practical scenarios", "difficulty": "Advanced", "text": "How would you design a safe, engaging lab on reaction rates with limited equipment?" },
+    { "id": "ct-prob-1", "category": "Problem solving", "difficulty": "Intermediate", "text": "Students confuse molarity and molality. How would you address that misconception?" },
+    { "id": "ct-beh-1", "category": "Behavioral", "difficulty": "Any", "text": "Tell me about a time you helped a struggling student improve in chemistry." },
+    { "id": "ct-comm-1", "category": "Communication", "difficulty": "Any", "text": "How do you communicate grading expectations and feedback to students and parents?" },
+    { "id": "ct-role-1", "category": "Role-specific situations", "difficulty": "Intermediate", "text": "How do you incorporate real-world applications of chemistry into your lessons?" },
+    { "id": "ct-tech-5", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is the periodic table, and why is it organized the way it is?" }
+  ]
+}

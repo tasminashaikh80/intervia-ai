@@ -1,0 +1,17 @@
+{
+  "role": "Frontend Developer",
+  "questions": [
+    { "id": "fe-intro-1", "category": "Introduction", "difficulty": "Any", "text": "Please introduce yourself and summarize your frontend experience." },
+    { "id": "fe-tech-1", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is the virtual DOM, and how does React use it?" },
+    { "id": "fe-tech-2", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "Explain the difference between controlled and uncontrolled components in React." },
+    { "id": "fe-tech-3", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "How do you manage state in a medium-sized React application?" },
+    { "id": "fe-tech-4", "category": "Technical knowledge", "difficulty": "Advanced", "text": "What strategies do you use to optimize rendering performance in React?" },
+    { "id": "fe-prac-1", "category": "Practical scenarios", "difficulty": "Intermediate", "text": "How would you implement client-side form validation with accessible error messages?" },
+    { "id": "fe-prac-2", "category": "Practical scenarios", "difficulty": "Advanced", "text": "Describe how you would structure a design system or shared component library." },
+    { "id": "fe-prob-1", "category": "Problem solving", "difficulty": "Intermediate", "text": "A page is loading slowly. Walk me through how you would diagnose and improve it." },
+    { "id": "fe-beh-1", "category": "Behavioral", "difficulty": "Any", "text": "Tell me about a time you disagreed with a design or product decision. How did you handle it?" },
+    { "id": "fe-comm-1", "category": "Communication", "difficulty": "Any", "text": "How do you collaborate with designers and backend engineers on a feature?" },
+    { "id": "fe-role-1", "category": "Role-specific situations", "difficulty": "Intermediate", "text": "How do you approach accessibility (a11y) in your day-to-day frontend work?" },
+    { "id": "fe-tech-5", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is responsive design, and which CSS techniques do you rely on most?" }
+  ]
+}

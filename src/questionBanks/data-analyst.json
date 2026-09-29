@@ -1,0 +1,17 @@
+{
+  "role": "Data Analyst",
+  "questions": [
+    { "id": "da-intro-1", "category": "Introduction", "difficulty": "Any", "text": "Please introduce yourself and describe your experience with data analysis." },
+    { "id": "da-tech-1", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is the difference between a primary key and a foreign key?" },
+    { "id": "da-tech-2", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "Explain the difference between INNER JOIN and LEFT JOIN with a simple example." },
+    { "id": "da-tech-3", "category": "Technical knowledge", "difficulty": "Intermediate", "text": "How do you handle missing or inconsistent data in a dataset?" },
+    { "id": "da-tech-4", "category": "Technical knowledge", "difficulty": "Advanced", "text": "How would you detect and address outliers that skew a metric?" },
+    { "id": "da-prac-1", "category": "Practical scenarios", "difficulty": "Intermediate", "text": "A stakeholder asks why revenue dropped last month. How would you investigate?" },
+    { "id": "da-prac-2", "category": "Practical scenarios", "difficulty": "Advanced", "text": "How would you design a dashboard for weekly product KPIs?" },
+    { "id": "da-prob-1", "category": "Problem solving", "difficulty": "Intermediate", "text": "Two reports show different totals for the same metric. How would you reconcile them?" },
+    { "id": "da-beh-1", "category": "Behavioral", "difficulty": "Any", "text": "Tell me about a time your analysis changed a business decision." },
+    { "id": "da-comm-1", "category": "Communication", "difficulty": "Any", "text": "How do you present complex findings to non-technical stakeholders?" },
+    { "id": "da-role-1", "category": "Role-specific situations", "difficulty": "Intermediate", "text": "Which tools do you prefer for exploratory analysis, and why?" },
+    { "id": "da-tech-5", "category": "Technical knowledge", "difficulty": "Beginner", "text": "What is the difference between mean, median, and mode, and when might median be better?" }
+  ]
+}
