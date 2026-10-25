@@ -610,7 +610,7 @@ ${recoveryBlock}
     try {
       let response
       try {
-        response = await fetch('http://localhost:3001/api/voice-token')
+        response = await fetch('/api/voice-token')
       } catch {
         releaseReconnectLock()
         if (intentionalStopRef.current || !interviewActiveRef.current) return
@@ -691,7 +691,7 @@ ${recoveryBlock}
 
       let response
       try {
-        response = await fetch('http://localhost:3001/api/voice-token')
+        response = await fetch('/api/voice-token')
       } catch {
         throw new Error(
           'Cannot reach the Intervia voice server on port 3001. Start the backend (server/) and try again.'
